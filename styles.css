@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Lucida Handwriting', Copperplate, Georgia, serif;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3, h4 {
+    font-size: 30px;
+}
+
+h2, h3, h4 {
+    font-weight: bold;
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Lucida Sans', serif;
+}
+
+ol li {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ingredients {
+    font-weight: bold;
+}
+
+#first-recipe {
+    background-color: green;
+}
+
+#third-recipe {
+    background-color: red;
+}
